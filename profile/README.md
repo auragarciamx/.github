@@ -4,8 +4,8 @@
 
 <p align="center">
   <strong>Auragarcia</strong><br>
-  Transformación digital&nbsp;&nbsp;·&nbsp;&nbsp;Ciencia de datos&nbsp;&nbsp;·&nbsp;&nbsp;IA clínica<br>
-  <em>Más inteligente, más humana</em>
+  Transformación digital&nbsp;&nbsp;·&nbsp;&nbsp;Ciencia de datos&nbsp;&nbsp;·&nbsp;&nbsp;IA<br>
+  <em>Salud más inteligente, más humana</em>
 </p>
 
 ---
@@ -28,21 +28,12 @@ Combinamos expertise clínico, científico y tecnológico para convertir datos e
 
 ---
 
-### Dónde encontrarnos
-| 🌐 Web | <https://avragarcia.com> |
-| 💼 LinkedIn | <https://linkedin.com/company/auragarcia> |
-| 📝 Medium | <https://medium.com/@auragarcia> |
-| 🩺 IG · conSENTIDO.ia | @consentido.ia |
-
----
----
-
-### 📬 ¿Listo para una salud más inteligente y humana?
+### 📬 ¿Listo?
 <p align="center">
-  <a href="mailto:hola@auragarcia.com?subject=Quiero%20transformar%20mi%20institución%20con%20Auragarcia" target="_blank">
-    <img src="https://img.shields.io/badge/Escríbenos-hola@auragarcia.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  <a href="mailto:hola@avragarcia.com?subject=Quiero%20transformar%20mi%20institución%20con%20Auragarcia" target="_blank">
+    <img src="https://img.shields.io/badge/Escríbenos-hola@avragarcia.com-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://auragarcia.com" target="_blank">
+  <a href="https://avragarcia.com" target="_blank">
     <img src="https://img.shields.io/badge/Sitio%20Web-Visítanos-24292e?style=for-the-badge&logo=google-chrome" alt="Web">
   </a>
   <a href="https://linkedin.com/company/auragarcia" target="_blank">
