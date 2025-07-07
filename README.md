@@ -1,13 +1,13 @@
 
-# Auragarcia · Transformación Digital & Ciencia de Datos en Salud  
+# auragarcia · Transformación Digital & Ciencia de Datos en Salud  
 *Consultora B2B · B2G · B2B2C · SaaS & Servicios Profesionales*
 
 SALUD MÁS INTELIGENTE, MÁS HUMANA
 
-![Auragarcia Banner](./.github/assets/auragarcia_banner.png)
+![Auragarcia Banner](./.github/assets/Header-X.png)
 
 ## ✨ ¿Quiénes somos?
-**Auragarcia** es una firma mexicana especializada en **transformación digital, analítica avanzada e inteligencia artificial para el sector salud**.  
+**auragarcia** es una firma mexicana especializada en **transformación digital, analítica avanzada e inteligencia artificial para el sector salud**.  
 Combinamos expertise clínico, científico y tecnológico para convertir datos en decisiones ágiles, seguras y *profundamente humanas*.
 
 ## 🎯 Propósito
@@ -71,7 +71,7 @@ Todos los colaboradores deben aceptar nuestro **[Código de Conducta](CODE_OF_CO
 ## 📣 Mantente al día
 | Canal | Enlace |
 |-------|--------|
-| Web | <https://auragarcia.com> |
+| Web | <https://avragarcia.com> |
 | LinkedIn | <https://linkedin.com/company/auragarcia> |
 | Medium | <https://medium.com/@auragarcia> |
 | X / Twitter | @auragarcia_ai |
