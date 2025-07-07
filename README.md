@@ -5,7 +5,7 @@
 
 SALUD MÁS INTELIGENTE, MÁS HUMANA
 
-![Auragarcia Banner](./.github/assets/Header-X.png)
+![Auragarcia Banner](https://raw.githubusercontent.com/auragarciamx/.github/main/assets/Header-X.png)
 
 ## ✨ ¿Quiénes somos?
 **auragarcia** es una firma mexicana especializada en **transformación digital, analítica avanzada e inteligencia artificial para el sector salud**.  
