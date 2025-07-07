@@ -1,4 +1,4 @@
-![Auragarcia Banner]([./assets/Header-X.png](https://github.com/auragarciamx/.github/blob/main/assets/Header-X.png)
+![Auragarcia Banner](https://raw.githubusercontent.com/auragarciamx/.github/main/assets/Header-X.png)
 
 
 #Transformación Digital & Ciencia de Datos en Salud ·
