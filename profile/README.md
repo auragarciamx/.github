@@ -1,19 +1,4 @@
-![Auragarcia Banner](https://raw.githubusercontent.com/auragarciamx/.github/main/assets/Header-X.png)
 
-
-# Transformación Digital & Ciencia de Datos en Salud ·
-
-<br><p align="center">*Consultora B2B · B2G · B2B2C · SaaS & Servicios Profesionales*</p><br>
-
-
-<br><p align="center">SALUD MÁS INTELIGENTE, MÁS HUMANA</p><br>
-
-## ✨ ¿Quiénes somos?
-**auragarcia** es una firma mexicana especializada en **transformación digital, analítica avanzada e inteligencia artificial para el sector salud**.  
-Combinamos expertise clínico, científico y tecnológico para convertir datos en decisiones ágiles, seguras y *profundamente humanas*.
-
-## 🎯 Propósito
-> **Facilitar que hospitales, gobiernos y empresas de salud sean  **más inteligentes, más humanas** mediante estrategias de interoperabilidad, analítica de vanguardia e innovación cultural.**
 <!-- ORGANIZATION PROFILE README -->
 ![Auragarcia Banner](https://raw.githubusercontent.com/auragarciamx/.github/main/assets/Header-X.png)
 
@@ -24,25 +9,55 @@ Combinamos expertise clínico, científico y tecnológico para convertir datos e
 </p>
 
 ---
+## ✨ ¿Quiénes somos?
+**auragarcia** es una firma mexicana especializada en **transformación digital, analítica avanzada e inteligencia artificial para el sector salud**.  
+Combinamos expertise clínico, científico y tecnológico para convertir datos en decisiones ágiles, seguras y *profundamente humanas*.
 
+## 🎯 Propósito
+> **Facilitar que hospitales, gobiernos y empresas de salud sean  **más inteligentes, más humanas** mediante estrategias de interoperabilidad, analítica de vanguardia e innovación cultural.**
+
+---
 ### ¿Qué hacemos?
 
 | | |
 |---|---|
 | 🔗 **Interoperabilidad & Datos Unificados** | **Conecta tu EHR**<br>Información fluye sin fricciones |
 | 📊 **Analítica & Inteligencia de Decisión** | **Ve antes, actúa mejor**<br>Dashboards y predicciones en tiempo real |
-| 🤖 **IA Aplicada a la Práctica Clínica** | **IA responsable a la cama**<br>NLP, visión y agentes listos para producción |
+| 🤖 **IA Aplicada** | **IA responsable**<br>NLP, visión y agentes listos para producción |
 | 🌱 **Estrategia & Cambio Cultural** | **Personas + procesos**<br>Alfabetización digital centrada en el paciente |
 
 ---
 
 ### Dónde encontrarnos
-| 🌐 Web | <https://auragarcia.com> |
+| 🌐 Web | <https://avragarcia.com> |
 | 💼 LinkedIn | <https://linkedin.com/company/auragarcia> |
 | 📝 Medium | <https://medium.com/@auragarcia> |
 | 🩺 IG · conSENTIDO.ia | @consentido.ia |
 
 ---
+---
+
+### 📬 ¿Listo para una salud más inteligente y humana?
+<p align="center">
+  <a href="mailto:hola@auragarcia.com?subject=Quiero%20transformar%20mi%20institución%20con%20Auragarcia" target="_blank">
+    <img src="https://img.shields.io/badge/Escríbenos-hola@auragarcia.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://auragarcia.com" target="_blank">
+    <img src="https://img.shields.io/badge/Sitio%20Web-Visítanos-24292e?style=for-the-badge&logo=google-chrome" alt="Web">
+  </a>
+  <a href="https://linkedin.com/company/auragarcia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@auragarcia" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Léenos-000000?style=for-the-badge&logo=medium" alt="Medium">
+  </a>
+  <a href="https://instagram.com/consentido.ia" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-conSENTIDO.ia-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+</p>
+
+
+
 
 > **“Datos bien cuidados, salud bien cuidada.”**
 
