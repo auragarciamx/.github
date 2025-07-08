@@ -55,7 +55,7 @@ Combinamos expertise clínico, científico y tecnológico para convertir datos e
     src="https://raw.githubusercontent.com/auragarciamx/.github/main/assets/AuraIntro2_reposo.gif"
     alt="Auragarcia animated logo"
     width="180"  <!-- Ajusta el ancho a tu gusto (px) -->
-  />
+  
 </p>
 
 
