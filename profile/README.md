@@ -2,6 +2,7 @@
 <!-- ORGANIZATION PROFILE README -->
 ![Auragarcia Banner](https://raw.githubusercontent.com/auragarciamx/.github/main/assets/Header-X.png)
 
+
 <p align="center">
   <strong>Auragarcia</strong><br>
   Transformación digital&nbsp;&nbsp;·&nbsp;&nbsp;Ciencia de datos&nbsp;&nbsp;·&nbsp;&nbsp;IA<br>
@@ -49,6 +50,7 @@ Combinamos expertise clínico, científico y tecnológico para convertir datos e
 
 
 
+![Auragarcia_logo](https://github.com/auragarciamx/.github/blob/main/assets/AuraIntro2_reposo.gif)
 
 > **“Datos bien cuidados, salud bien cuidada.”**
 
