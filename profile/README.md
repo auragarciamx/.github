@@ -50,7 +50,14 @@ Combinamos expertise clínico, científico y tecnológico para convertir datos e
 
 
 
-![Auragarcia_logo](https://github.com/auragarciamx/.github/blob/main/assets/AuraIntro2_reposo.gif)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/auragarciamx/.github/main/assets/AuraIntro2_reposo.gif"
+    alt="Auragarcia animated logo"
+    width="180"  <!-- Ajusta el ancho a tu gusto (px) -->
+  />
+</p>
+
 
 > **“Datos bien cuidados, salud bien cuidada.”**
 
